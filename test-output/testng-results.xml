@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T13:26:33 IST" name="Default suite" finished-at="2024-03-05T13:26:35 IST" duration-ms="1731">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T13:26:33 IST" name="Default test" finished-at="2024-03-05T13:26:35 IST" duration-ms="1731">
+      <class name="day1.HeaderDemo">
+        <test-method signature="testHeadres()[pri:2, instance:day1.HeaderDemo@4f209819]" started-at="2024-03-05T13:26:33 IST" name="testHeadres" finished-at="2024-03-05T13:26:35 IST" duration-ms="1705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeadres -->
+      </class> <!-- day1.HeaderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
